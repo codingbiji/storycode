@@ -1,8 +1,3 @@
-# StoryCode 介绍 / StoryCode Introduction
-
----
-
-## 🇬🇧 English
 
 # StoryCode — Your Local-First AI Coding Agent
 
@@ -22,7 +17,6 @@
 
 ---
 
-## 🇨🇳 中文
 
 # StoryCode —— 你的本地优先 AI 编码 Agent
 

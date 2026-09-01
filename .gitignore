@@ -1,0 +1,9 @@
+# StoryCode runtime (managed)
+/media/
+/devtools/terminal/
+/.storycode/tmp/
+/.storycode/temp/
+/.storycode/cache/
+/.storycode/pycache/
+/.storycode/feishu/
+/.storycode/channels/

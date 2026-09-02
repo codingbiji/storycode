@@ -49,8 +49,8 @@ StoryCode 是一个本地优先（Local-first）的桌面端 AI 智能体平台�
 - **Knowledge**：RAG 知识库（内置 embedding 模型随包分发）。
 - **Visualizer**：Mermaid、Sankey、雷达图、地图等交互式可视化。
 - **Tutorial**：引导式教程。
-- **DevTools**：数据库（SQLite / PostgreSQL / MySQL）、SSH（详见第 6 节）。
-- **多媒体**：音频 / 视频 / 截图 / AI 生成（详见第 7 节）。
+- **DevTools**：数据库（SQLite / PostgreSQL / MySQL）、SSH。
+- **多媒体**：音频 / 视频 / 截图 / AI 生成。
 
 
 #### 4. Story：项目故事与决策记忆

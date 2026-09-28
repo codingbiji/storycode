@@ -1,5 +1,7 @@
 # StoryCode
 
+storycode.cc
+
 > **StoryCode = 本地优先 + 可扩展 MCP 工具生态 + 项目记忆（Story）+ 本地 RAG 知识库 + IM 聊天机器人，一个掌控在自己手中的 AI 智能体平台。**
 
 

@@ -30,7 +30,8 @@ StoryCode 是一个本地优先（Local-first）的桌面端 AI 智能体平台�
 
 #### 2. 模型接入：云端 + 本地全覆盖
 
-- **模型供应商**：OpenAI、Anthropic、DeepSeek、xAI（Grok）、Mistral、Groq、智谱 AI（GLM）、阿里云百炼（Qwen）、Kimi、MiniMax、火山引擎方舟、小米 MiMo、美团 LongCat。
+- **模型供应商**：OpenAI、Anthropic、DeepSeek、xAI（Grok）、Mistral、Groq、智谱 AI（GLM）、阿里云百炼（Qwen）、Kimi、MiniMax、火山引擎方舟、小米 MiMo（MiMo-V2.6 全模态系列）、美团 LongCat。
+- **订阅套餐端点**：阿里云百炼 Token Plan、小米 MiMo Token Plan、智谱 Coding Plan、Kimi Code Plan——使用套餐专属 Base URL 与 API Key，按额度（Credits）计费，面向 AI 编程与智能体工具。
 - **云平台 / 聚合网关**：Azure、Google Gemini、LiteLLM、OpenRouter、AWS Bedrock、GCP Vertex AI、SageMaker TGI。
 - **Agent / CLI 与 Copilot**：Codex、Claude Code、Cursor Agent、Gemini CLI、GitHub Copilot。
 - **数据 / 行业平台**：Databricks、Snowflake。
@@ -49,8 +50,8 @@ StoryCode 是一个本地优先（Local-first）的桌面端 AI 智能体平台�
 - **Knowledge**：RAG 知识库（内置 embedding 模型随包分发）。
 - **Visualizer**：Mermaid、Sankey、雷达图、地图等交互式可视化。
 - **Tutorial**：引导式教程。
-- **DevTools**：数据库（SQLite / PostgreSQL / MySQL）、SSH。
-- **多媒体**：音频 / 视频 / 截图 / AI 生成。
+- **DevTools**：数据库（SQLite / PostgreSQL / MySQL）、SSH（详见第 6 节）。
+- **多媒体**：音频 / 视频 / 截图 / AI 生成（详见第 7 节）。
 
 
 #### 4. Story：项目故事与决策记忆
